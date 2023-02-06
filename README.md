@@ -8,6 +8,7 @@ This repository contains the study of RPR manipulator which analyzes:
 5. design a control structure to follow a trajectory;
 6. simulation of the assigned task.
 
+![RPR](/Readme images/sist_rif.png?raw=true "The robot")
 
 The assigned task is the following:
 1. The manipulator is in point P1.
